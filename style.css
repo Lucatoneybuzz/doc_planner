@@ -1,0 +1,275 @@
+header {
+    margin: 30px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+header a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: grey;
+}
+header a:hover {
+    color: #00C3A5;
+}
+.green {
+    color: #00C3A5;
+}
+
+header img {
+    width: 230px;
+}
+.head {
+    margin: 100px 150px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    
+    
+}
+.head img {
+    width: 35px;
+    margin-bottom: 20px;
+    
+}
+.mo {
+    font-size: 35px;
+    font-weight: 300;
+    color: #00C3A5;
+    text-align: center;
+}
+.bo  {
+    text-align: left;
+    color: grey;
+    font-size: 15px;
+    width: 350px;
+    margin: 10px -70px;
+    
+}
+.bol  {
+    text-align: left;
+    color: grey;
+    font-size: 15px;
+    margin: 10px -190px;
+    width: 350px;
+    
+}
+
+.view2 {
+    background-color: #3D83DF;
+    border-radius: 5px;
+    color: white;
+    height: 60vh;
+    margin: 30px 10px;
+    width: 300px;
+    padding: 30px;
+
+}
+.view3 {
+    background-color: #1B2734;
+    border-radius: 5px;
+    color: white;
+    height: 60vh;
+    margin: 30px 10px;
+    width: 300px;
+    padding: 30px;
+
+}
+.view1 {
+    background-color: #00CCB1;
+    border-radius: 5px;
+    color: white;
+    height: 60vh;
+    margin: 30px 10px;
+    width: 300px;
+    padding: 30px;
+
+
+}
+.tot {
+    margin: 20px 200px;
+}
+.doc {
+    font-size: 33px;
+}
+.yu {
+    font-size: 20px;
+    font-weight: 300;
+}
+.sec {
+    color: white;
+    background-color: #00CCB1;
+    border: none;
+    font-size: 25px;
+    margin-top: 25px;
+}
+.sec0 {
+    color: white;
+    background-color: #3D83DF;
+    border: none;
+    font-size: 25px;
+    margin-top: 58px;
+}
+.sec1 {
+    color: white;
+    background-color: #1B2734;
+    border: none;
+    font-size: 22px;
+    padding-top: 5px;
+}
+
+.view5 img{
+    width: 70px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+    
+}
+.view4 {
+    color: #00CCB1;
+    padding-left: 90px;
+    font-size: 25px;
+    font-weight: 320;
+}
+.boo {
+    background-color: #D0FAF4;
+    height: 100vh;
+}
+.fav {
+    margin: 50px 50px;
+    font-weight: 330;
+    font-size: 29px;
+    color: #00CCB1;
+}
+.fav2 {
+    font-weight: 330;
+    color: grey;
+    margin: -15px 50px;
+}
+.card {
+    width: 230px;
+    height: 44vh;
+    border-radius: 5px;
+    margin: 10px 10px;
+    float: right;
+    
+}
+.card img {
+    width: 29px;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.clu1 h3 {
+    text-align: center;
+    color: #00CCB1;
+    font-weight: 320;
+    padding-top: 10px;
+}
+.clu1 p {
+    text-align: center;
+    color: grey;
+    font-size: 12px;
+    font-weight: 450;
+}
+.clu2 h3 {
+    text-align: center;
+    color: #00CCB1;
+    font-weight: 320;
+    padding-top: 10px;
+}
+.clu2 p {
+    text-align: center;
+    color: grey;
+    font-size: 12px;
+    font-weight: 450;
+}
+.clu3 h3 {
+    text-align: center;
+    color: #00CCB1;
+    font-weight: 320;
+    padding-top: 10px;
+}
+.clu3 p {
+    text-align: center;
+    color: grey;
+    font-size: 12px;
+    font-weight: 450;
+}
+.clu4 h3 {
+    text-align: center;
+    color: #00CCB1;
+    font-weight: 320;
+    padding-top: 10px;
+}
+.clu4 p {
+    text-align: center;
+    color: grey;
+    font-size: 12px;
+    font-weight: 450;
+}
+.clu3 {
+    margin-top: -250px;
+}
+.clu4 {
+    margin-top: -260px;
+}
+.pic {
+    margin-top: 45px;
+} 
+.section5 {
+    text-align: center;
+    margin-top: 100px;
+}
+.section5 h3 {
+    color: #00C3A5;
+    font-weight: 320;
+    font-size: 30px;
+}
+.section5 p {
+    color: grey;
+    font-size: 14px;
+}
+.sec5 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.end {
+    text-align: center;
+   margin: 50px 230px;
+    font-size: 12px;
+}
+.end h1 {
+    font-size: 30px;
+    font-weight: 320;
+}
+.end button {
+    background-color: #3D83DF;
+    color: white;
+    border: none;
+    width: 250px;
+    height: 7vh;
+    font-size: 13px;
+}
+button {
+    background-color: #3D83DF;
+    color: white;
+    border: none;
+    width: 250px;
+    height: 7vh;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+button:hover {
+    background-color: grey;
+}
+
+footer {
+    color: grey;
+    
+}
+footer a {
+    text-decoration: none;
+}
+footer a:hover {
+    color: rgb(3, 3, 73);
+    text-decoration: underline;
+}
